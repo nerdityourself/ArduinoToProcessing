@@ -1,3 +1,8 @@
+/*
+@author NerdItYourself
+@version 1.0, 18/10/2016
+*/
+
 import processing.serial.*; 
 
 Serial myPort;  // Create object from Serial class
